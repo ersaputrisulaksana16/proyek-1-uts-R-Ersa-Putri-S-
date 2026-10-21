@@ -4,7 +4,7 @@ Repository ini berisi implementasi kontainerisasi **PostgreSQL** dan **pgAdmin4*
 
 ---
 
-## 👤 Informasi Mahasiswa
+## Informasi Mahasiswa
 * **Nama:** R Ersa Putri Sulaksana
 * **NIM :** 1247050099
 * **Mata Kuliah:** Manajemen Basis Data
@@ -12,7 +12,7 @@ Repository ini berisi implementasi kontainerisasi **PostgreSQL** dan **pgAdmin4*
 
 ---
 
-## ⚙️ Konfigurasi Port & Service
+## Konfigurasi Port & Service
 
 | Service | Nama Kontainer | Port Internal | Port Eksternal | Environment File |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ Repository ini berisi implementasi kontainerisasi **PostgreSQL** dan **pgAdmin4*
 
 ---
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```text
 mbd-proyek1-ersa/
